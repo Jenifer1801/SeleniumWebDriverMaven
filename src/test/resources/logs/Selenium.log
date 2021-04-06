@@ -1,0 +1,10 @@
+20:45:12,815 DEBUG devpinoyLogger<strong>{1}</strong>:45 - Config file loaded!!
+20:45:12,820 DEBUG devpinoyLogger<strong>{1}</strong>:61 - OR file loaded!!
+20:45:19,355 DEBUG devpinoyLogger<strong>{1}</strong>:78 - Chrome browser launched!!
+20:45:25,499 DEBUG devpinoyLogger<strong>{1}</strong>:87 - 	User navigated to https://www.selenium.dev/ site 
+20:45:25,788 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Inside DownloadTabTest
+20:45:27,668 DEBUG devpinoyLogger<strong>{1}</strong>:18 - DownloadTabTest completed
+20:45:27,782 DEBUG devpinoyLogger<strong>{1}</strong>:18 - Inside DownloadTabTest
+20:45:33,085 DEBUG devpinoyLogger<strong>{1}</strong>:30 - AboutTabTest completed
+20:45:33,120 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Inside DocumentationTabTest
+20:45:42,450 DEBUG devpinoyLogger<strong>{1}</strong>:113 - Test execution completed sucessfully!!!
