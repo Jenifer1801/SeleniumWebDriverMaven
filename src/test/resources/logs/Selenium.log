@@ -1,11 +1,11 @@
-17:47:28,177 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded!!
-17:47:28,184 DEBUG devpinoyLogger<strong>{1}</strong>:62 - OR file loaded!!
-17:47:33,101 DEBUG devpinoyLogger<strong>{1}</strong>:77 - Chrome browser launched!!
-17:47:36,994 DEBUG devpinoyLogger<strong>{1}</strong>:85 - 	User navigated to https://www.selenium.dev/ site 
-17:47:37,287 DEBUG devpinoyLogger<strong>{1}</strong>:13 - Inside DownloadTabTest
-17:47:38,297 DEBUG devpinoyLogger<strong>{1}</strong>:18 - DownloadTabTest completed
-17:47:38,376 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Inside DownloadTabTest
-17:47:41,038 DEBUG devpinoyLogger<strong>{1}</strong>:25 - AboutTabTest completed
-17:47:41,090 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Inside DocumentationTabTest
-17:47:48,991 DEBUG devpinoyLogger<strong>{1}</strong>:20 - DocumentationTabTest completed
-17:47:50,548 DEBUG devpinoyLogger<strong>{1}</strong>:111 - Test execution completed sucessfully!!!
+19:26:42,276 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded!!
+19:26:42,280 DEBUG devpinoyLogger<strong>{1}</strong>:62 - OR file loaded!!
+19:26:48,998 DEBUG devpinoyLogger<strong>{1}</strong>:77 - Chrome browser launched!!
+19:26:56,593 DEBUG devpinoyLogger<strong>{1}</strong>:85 - 	User navigated to https://www.selenium.dev/ site 
+19:26:56,907 DEBUG devpinoyLogger<strong>{1}</strong>:13 - Inside DownloadTabTest
+19:26:58,078 DEBUG devpinoyLogger<strong>{1}</strong>:18 - DownloadTabTest completed
+19:26:58,152 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Inside DownloadTabTest
+19:27:01,368 DEBUG devpinoyLogger<strong>{1}</strong>:25 - AboutTabTest completed
+19:27:01,401 DEBUG devpinoyLogger<strong>{1}</strong>:14 - Inside DocumentationTabTest
+19:27:09,440 DEBUG devpinoyLogger<strong>{1}</strong>:20 - DocumentationTabTest completed
+19:27:10,876 DEBUG devpinoyLogger<strong>{1}</strong>:111 - Test execution completed sucessfully!!!

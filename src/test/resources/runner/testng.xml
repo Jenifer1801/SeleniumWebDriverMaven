@@ -9,20 +9,19 @@
 		<listener class-name="com.mindtree.listeners.CustomListeners" />
 	</listeners>
 
-	<test name="DownloadTabTest" thread-count="3" parallel="methods">
+	<test name="DownloadTabTest" thread-count="1">
 		<classes>
 			<class name="com.mindtree.testcases.DownloadTabTest" />
 		</classes>
 	</test>
 
-	<test name="AboutTabTest" thread-count="3" parallel="methods">
+	<test name="AboutTabTest" thread-count="1">
 		<classes>
 			<class name="com.mindtree.testcases.AboutTabTest" />
 		</classes>
 	</test>
 
-	<test name="DocumentationTabTest" thread-count="3"
-		parallel="methods">
+	<test name="DocumentationTabTest" thread-count="1">
 		<classes>
 			<class name="com.mindtree.testcases.DocumentationTabTest" />
 		</classes>
