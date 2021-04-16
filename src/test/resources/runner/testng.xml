@@ -6,22 +6,22 @@
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener
 			class-name="org.uncommons.reportng.JUnitXMLReporter" />
-			<listener class-name="com.mindtree.listeners.CustomListeners" />
+		<listener class-name="com.mindtree.listeners.CustomListeners" />
 	</listeners>
 
-	<test name="DownloadTabTest" thread-counr="3" parallel="methods">
+	<test name="DownloadTabTest" thread-count="3" parallel="methods">
 		<classes>
 			<class name="com.mindtree.testcases.DownloadTabTest" />
 		</classes>
 	</test>
 
-	<test name="AboutTabTest" thread-counr="3" parallel="methods">
+	<test name="AboutTabTest" thread-count="3" parallel="methods">
 		<classes>
 			<class name="com.mindtree.testcases.AboutTabTest" />
 		</classes>
 	</test>
 
-	<test name="DocumentationTabTest" thread-counr="3"
+	<test name="DocumentationTabTest" thread-count="3"
 		parallel="methods">
 		<classes>
 			<class name="com.mindtree.testcases.DocumentationTabTest" />

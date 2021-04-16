@@ -1,10 +1,11 @@
-05/04/2021 20:45:12 devpinoyLogger Config file loaded!!
-05/04/2021 20:45:12 devpinoyLogger OR file loaded!!
-05/04/2021 20:45:19 devpinoyLogger Chrome browser launched!!
-05/04/2021 20:45:25 devpinoyLogger 	User navigated to https://www.selenium.dev/ site 
-05/04/2021 20:45:25 devpinoyLogger Inside DownloadTabTest
-05/04/2021 20:45:27 devpinoyLogger DownloadTabTest completed
-05/04/2021 20:45:27 devpinoyLogger Inside DownloadTabTest
-05/04/2021 20:45:33 devpinoyLogger AboutTabTest completed
-05/04/2021 20:45:33 devpinoyLogger Inside DocumentationTabTest
-05/04/2021 20:45:42 devpinoyLogger Test execution completed sucessfully!!!
+16/04/2021 17:47:28 devpinoyLogger Config file loaded!!
+16/04/2021 17:47:28 devpinoyLogger OR file loaded!!
+16/04/2021 17:47:33 devpinoyLogger Chrome browser launched!!
+16/04/2021 17:47:36 devpinoyLogger 	User navigated to https://www.selenium.dev/ site 
+16/04/2021 17:47:37 devpinoyLogger Inside DownloadTabTest
+16/04/2021 17:47:38 devpinoyLogger DownloadTabTest completed
+16/04/2021 17:47:38 devpinoyLogger Inside DownloadTabTest
+16/04/2021 17:47:41 devpinoyLogger AboutTabTest completed
+16/04/2021 17:47:41 devpinoyLogger Inside DocumentationTabTest
+16/04/2021 17:47:48 devpinoyLogger DocumentationTabTest completed
+16/04/2021 17:47:50 devpinoyLogger Test execution completed sucessfully!!!

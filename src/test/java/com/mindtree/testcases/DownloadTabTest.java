@@ -4,9 +4,9 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.mindtree.base.TestBase;
+import com.mindtree.base.TestBas;
 
-public class DownloadTabTest extends TestBase {
+public class DownloadTabTest extends TestBas {
 
 	@Test
 	public void clickDownloadTab() {

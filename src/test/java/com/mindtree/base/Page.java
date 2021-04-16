@@ -18,7 +18,7 @@ import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class TestBase {
+public class Page {
 
 	/*
 	 * WebDriver Properties Logs ExtentReports DB Excel Mail
